@@ -18,6 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
+
 <img width="853" height="801" alt="image" src="https://github.com/user-attachments/assets/0e8aab48-68d3-4ffc-b170-d386c037e41b" />
 <img width="774" height="755" alt="image" src="https://github.com/user-attachments/assets/fd0f1095-4e13-4cfb-bea9-bc722c0029b0" />
 <img width="761" height="667" alt="image" src="https://github.com/user-attachments/assets/5841fded-5ade-4557-8fad-1fac7938e36a" />
@@ -42,4 +43,5 @@ STEP 5:Include Necessary parameters in each functions.
 <img width="1147" height="656" alt="image" src="https://github.com/user-attachments/assets/28d5a93d-5b9d-48dd-9df7-035fb834c338" />
 
 # Result:
+
  Thus, The implementation of data visualization using matplotlib has been successfully verified.
